@@ -1,0 +1,12 @@
+{
+  "name": "@chenjun123/dep",
+  "version": "1.0.0",
+  "description": "。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "陈俊",
+  "license": "ISC",
+  "keywords": []
+}
